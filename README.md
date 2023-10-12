@@ -9,8 +9,6 @@
 
 > To test, use: `npm test`
 
-> Set your PORT environment with an .env file
-
 Get request:
 ```text
 method: DELETE
@@ -24,8 +22,8 @@ Output:
 ![Serverless API UML Diagram](./public/images/serverless-api.png)
 
 ## PR link
-[DELETE Request PR link](https://github.com/cleecoloma/code-academy-parcel-service/pull/3)
+[DELETE Request PR link](https://github.com/cleecoloma/serverless-api-delete/pulls)
 
 ## Contributors
 * Chester Lee Coloma
-* ChatGPT helped with the emit tests
+* ChatGPT helped with the tests
