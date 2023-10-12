@@ -24,7 +24,7 @@ Output:
 ![Serverless API UML Diagram](./public/images/serverless-api.png)
 
 ## PR link
-[GET Request PR link](https://github.com/cleecoloma/code-academy-parcel-service/pull/3)
+[DELETE Request PR link](https://github.com/cleecoloma/code-academy-parcel-service/pull/3)
 
 ## Contributors
 * Chester Lee Coloma
